@@ -2,7 +2,7 @@ nodes:
   - name: project-x-nodes
     rewards: 0.17
     required: 10
-    count: 10
+    count: 10000
 
   - name: dairy-money-milk
     rewards: 0.4
